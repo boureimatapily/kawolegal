@@ -49,7 +49,7 @@ footer{
 }
 .img-index-z1{
 	position: absolute;
-	z-index: 1;
+	z-index: 2;
 	margin-left: 200px;
 	margin-top: 200px;
 }
@@ -58,7 +58,7 @@ footer{
 	margin-top: 100px;
 	margin-left: 450px;
 	position: absolute;
-	z-index: 2;
+	z-index: 1;
 	color:white;
 
 }
